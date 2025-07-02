@@ -1,4 +1,4 @@
-[![Node](https://github.com/opifexM/website-builder/actions/workflows/build.yml/badge.svg)](https://github.com/opifexM/website-builder/actions/workflows/build.yml)
+[![Node CI](https://github.com/opifexM/website-builder/actions/workflows/nodejs.yml/badge.svg)](https://github.com/opifexM/website-builder/actions/workflows/nodejs.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=opifexM_website-builder&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=opifexM_website-builder)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=opifexM_website-builder&metric=bugs)](https://sonarcloud.io/summary/new_code?id=opifexM_website-builder)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=opifexM_website-builder&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=opifexM_website-builder)
