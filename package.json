@@ -1,0 +1,35 @@
+{
+  "name": "website-builder",
+  "description": "A web-based website builder allows users to create pages by selecting templates and adding editable content blocks with text, images, and layout options",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "start": "vite --port 3000",
+    "build": "vite build && tsc",
+    "serve": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.123.0",
+    "@tanstack/react-router-devtools": "^1.123.0",
+    "@tanstack/react-store": "^0.7.1",
+    "@tanstack/router-plugin": "^1.123.0",
+    "classnames": "^2.5.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^24.0.7",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "jsdom": "^26.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.4",
+    "web-vitals": "^5.0.3"
+  }
+}
